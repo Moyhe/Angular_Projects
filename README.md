@@ -1,2 +1,2 @@
-# AngularProjects
+# Angular
 this is angularProjects 
